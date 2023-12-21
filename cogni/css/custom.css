@@ -407,7 +407,7 @@ button:focus {
 
   .welcome-text {
     margin-bottom: 10rem;
-    font-size: 15px;
+    font-size: 24px;
     text-shadow: 0 0 20px rgb(119, 119, 115);
   }
 }
